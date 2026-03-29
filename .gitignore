@@ -1,0 +1,7 @@
+AutoLyricAI/
+__pycache__/
+*.pyc
+.DS_Store
+
+temp_audio/
+lyrics_output/
